@@ -1,5 +1,5 @@
 ﻿/*
-Author: Clinton Daniel
+Author: Shreedevi bhimsingh olekar
 Date: 1/5/2019
 Comments: This C# Console application code demonstrates the use of 
 conditional statements after getting input from users
